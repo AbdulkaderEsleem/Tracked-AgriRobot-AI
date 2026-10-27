@@ -1,5 +1,8 @@
 Intelligent Agricultural Tracked Robot for In-Situ Soil Analysis & Decision Support
+### 📹 Field Demonstration & In-Situ Soil Sampling Video
+[▶️ Click Here to Watch Field Traversal & Robot Soil Sampling Demo (MP4)](./20261027_155631.mp4)
 
+---
 University of Aleppo | Faculty of Electrical & Electronic Engineering | Mechatronics Department (2025–2026)
 
 Graduation Capstone Project | Grade Awarded: 97/100 (Top Distinction)
